@@ -1,5 +1,11 @@
 # 异常流量检测系统 | Abnormal Traffic Detection System
 
+## 📜 项目声明 | Project Declaration
+
+- **项目名称** | **Project Name**: 异常流量检测系统 (Abnormal Traffic Detection System)
+- **项目作者** | **Project Author**: Jiale Yang、Yan Lin
+- **项目单位** | **Project Institution**: 暨南大学网络空间安全学院（Jinan University School of Cyberspace Security）
+
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.x-orange.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
